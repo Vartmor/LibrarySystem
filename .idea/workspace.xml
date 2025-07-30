@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4efbaf0d-1521-4276-b424-642d35bdd498" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LibrarySystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="4efbaf0d-1521-4276-b424-642d35bdd498" name="Changes" comment="first and last commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,12 +78,33 @@
       <workItem from="1753896080691" duration="170000" />
       <workItem from="1753896279596" duration="187000" />
       <workItem from="1753896481083" duration="6615000" />
-      <workItem from="1753904436335" duration="1233000" />
+      <workItem from="1753904436335" duration="1437000" />
     </task>
+    <task id="LOCAL-00001" summary="first and last commit">
+      <option name="closed" value="true" />
+      <created>1753905694042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753905694042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first and last commit">
+      <option name="closed" value="true" />
+      <created>1753905873508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753905873508</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first and last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first and last commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LibrarySystem$main.coverage" NAME="main Coverage Results" MODIFIED="1753905138042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
