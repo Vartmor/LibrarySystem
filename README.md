@@ -1,0 +1,2 @@
+this is a beginner level python project that teaches how to use json files to store and retrieve data it includes examples of reading data from a json file converting it into python objects modifying the data and writing it back to the file it also explains the difference between file modes like w and a and how they affect the file content basic json concepts such as dictionaries lists and python data type conversions are covered in a simple way for complete beginners
+
