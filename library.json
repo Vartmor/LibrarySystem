@@ -52,5 +52,11 @@
         "yazar": "richard bat",
         "yil": "1970",
         "tur": "roman"
+    },
+    {
+        "isim": "Test Kitap",
+        "yazar": "Test Yazar",
+        "yil": "2024",
+        "tur": "Test"
     }
 ]
